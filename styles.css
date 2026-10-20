@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  color: #1a1a1a;
+  background: #f7f4ef;
+}
+header,
+main,
+footer {
+  padding: 1rem;
+}
+main {
+  max-width: 40rem;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  border: 4px solid #1f4e3d;
+}
+a:focus {
+  outline: 3px solid #0b57d0;
+}
